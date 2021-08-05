@@ -1,0 +1,14 @@
+uuid: 5bb458ea-d3cc-48b3-a632-2a10296c8745
+name: configdemo
+mail: jeel.addweb@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
